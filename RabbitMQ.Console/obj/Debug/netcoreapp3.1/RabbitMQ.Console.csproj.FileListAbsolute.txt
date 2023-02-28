@@ -1,0 +1,4 @@
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.Console.exe
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.Console.csprojAssemblyReference.cache
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.Console.AssemblyInfoInputs.cache
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.Console.AssemblyInfo.cs
