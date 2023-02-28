@@ -1,0 +1,16 @@
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.exe
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.deps.json
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.runtimeconfig.json
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.runtimeconfig.dev.json
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.dll
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.pdb
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.AssemblyInfo.cs
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.csproj.CopyComplete
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.dll
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.pdb
+C:\Users\eduardo.aparecido\source\repos\RabbitMQ\RabbitMQ.Console\obj\Debug\netcoreapp3.1\RabbitMQ.ConsoleApp.genruntimeconfig.cache
